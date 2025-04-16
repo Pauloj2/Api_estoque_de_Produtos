@@ -1,0 +1,93 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cbcbcb7c;
+}
+container mt-4
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    border-radius: 8px 8px 0 0;
+}
+
+.table-actions {
+    width: 120px;
+    text-align: center;
+}
+
+.product-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.loading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    color: white;
+    font-size: 24px;
+}
+
+.hidden {
+    display: none;
+}
+
+.alert {
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Button styling */
+.btn-primary {
+    background-color: #0d6efd;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+}
+
+.btn-success {
+    background-color: #198754;
+}
+
+.btn-success:hover {
+    background-color: #157347;
+}
+
+/* Table styling */
+.table th {
+    background-color: #f1f4f9;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f8ff;
+}
+
+/* Modal styling */
+.modal-content {
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.modal-header {
+    background-color: #f8f9fa;
+    border-radius: 8px 8px 0 0;
+}
