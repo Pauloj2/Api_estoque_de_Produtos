@@ -118,5 +118,5 @@ O sistema segue uma arquitetura em três camadas:
 ## 👨‍🎓 Desenvolvido por
 
 Trabalho realizado por 
-Paulo Junior,Ranielly,Ana Luiza.
+Paulo Junior, Ranielly, Ana Luiza.
 
