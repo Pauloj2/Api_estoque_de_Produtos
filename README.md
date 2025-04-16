@@ -6,6 +6,10 @@ Este projeto é um **Sistema Web de Controle de Estoque**, desenvolvido como par
 
 ---
 
+## 👨‍🎓 Equipe
+
+Paulo Junior, Ranielly, Ana Luiza.
+
 ## 📌 Objetivos
 
 - Cadastrar produtos no estoque.
@@ -111,12 +115,4 @@ O sistema segue uma arquitetura em três camadas:
 3. Crie o banco de dados MySQL e a tabela `produtos` com base no script fornecido.
 4. Edite o arquivo `conexao.php` com suas credenciais de acesso ao MySQL.
 5. Acesse o sistema pelo navegador: http://localhost/nome-do-projeto/
-
-
----
-
-## 👨‍🎓 Desenvolvido por
-
-Trabalho realizado por 
-Paulo Junior, Ranielly, Ana Luiza.
 
