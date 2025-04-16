@@ -1,4 +1,5 @@
-![Design sem nome (3)](https://github.com/user-attachments/assets/b15da539-4fd5-4636-82f2-a4a9e80eaead)
+![Banner](https://github.com/user-attachments/assets/988e2511-4e0c-4d14-998d-6ec9ee189553)
+
 # 📦 Sistema de Gestão de Estoque
 
 Este projeto é um **Sistema Web de Controle de Estoque**, desenvolvido como parte de uma atividade acadêmica na disciplina de Redes de Computadores. Seu objetivo é permitir o gerenciamento eficiente de produtos por meio de uma interface amigável, utilizando uma API desenvolvida em PHP e banco de dados MySQL.
